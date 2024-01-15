@@ -30,7 +30,7 @@ function App() {
   };
 
   return (
-    <Container className="mt-5 bg-dark text-light">
+    <Container className="my-5 bg-dark text-light  justify-content-center">
       <Row className="justify-content-center">
         <Col xs={12} md={8} lg={6}>
           <h1 className="text-center mb-4">Age Calculator</h1>
